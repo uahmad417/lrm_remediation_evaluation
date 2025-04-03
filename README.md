@@ -9,6 +9,7 @@ This LRM application takes risk scenarios and countermeasures to the threats and
 ## How to use it?
 
 All the app is developed in a Jypter environmnet. Seperate instructions for running the app are also provided in `workflow.ipynb`.
+It is recommended to create a virtual environment and select it as the runtime/kernal in the Jypeter environment.
 
 ### Loading the data
 
